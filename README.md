@@ -1,4 +1,4 @@
-![MasterHead](https://www.newtechdojo.com/wp-content/uploads/2018/08/Data-Science.png)
+![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Vishwakarma</h1>
 <h3 align="center">A passionate Ai and Machine learning engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
