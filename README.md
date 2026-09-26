@@ -20,7 +20,7 @@ I'm a **Data Engineer & AI/ML Engineer** with **2+ years of professional experie
 I'm now taking on **freelance and contract projects** — if you need help with data engineering, ML model development, or AI integration, let's talk!
 
 - 🔭 I've worked on **data pipelines, ETL workflows, ML model development & deployment**
-- 🌱 Currently deepening my skills in **MLOps, LLMs & GenAI applications**
+- 🌱 Currently deepening my skills in **MLOps, RAG pipelines, AI Agents & GenAI applications**
 - 💼 **Available for freelance work** — data engineering, ML/AI projects, automation & analytics
 - 💬 Ask me about **Python, Machine Learning, Data Engineering, SQL, Cloud (GCP)**
 - 📫 Reach me at **nk113018@gmail.com**
@@ -48,6 +48,16 @@ I'm now taking on **freelance and contract projects** — if you need help with 
 - Predictive analytics & forecasting
 - Computer vision (OpenCV based solutions)
 - Model deployment & API integration
+
+</td>
+<td>
+
+**GenAI / LLM Solutions**
+- RAG (Retrieval-Augmented Generation) pipelines
+- AI agents & agentic workflow automation
+- LLM integration (OpenAI, Claude, open-source models)
+- Vector databases & semantic search
+- Chatbots & custom GenAI applications
 
 </td>
 </tr>
